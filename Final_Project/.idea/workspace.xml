@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10890167-fa2a-4e4c-a166-1227f88857d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1baFjnEdYJsRp49nXzxIHlm0pBf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="For_UI_tests.conf" />
+      <recent name="For_UI_tests" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Busk\Desktop\Genesis\Final_Project\src\main\java\For_UI_tests\pages" />
+      <recent name="C:\Users\Busk\Desktop\Genesis\Final_Project\src\main\java\For_UI_tests" />
+      <recent name="C:\Users\Busk\Desktop\Genesis\Final_Project\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.UI_Tests">
+    <configuration name="API_Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Final_Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="API_Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI_Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Final_Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UI_Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI_Tests.deleteCardUI" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Final_Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UI_Tests" />
+      <option name="METHOD_NAME" value="deleteCardUI" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI_Tests.renameBoardUI" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Final_Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UI_Tests" />
+      <option name="METHOD_NAME" value="renameBoardUI" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI_Tests.renameCard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Final_Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UI_Tests" />
+      <option name="METHOD_NAME" value="renameCard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UI_Tests" />
+        <item itemvalue="TestNG.UI_Tests.renameBoardUI" />
+        <item itemvalue="TestNG.UI_Tests.deleteCardUI" />
+        <item itemvalue="TestNG.API_Tests" />
+        <item itemvalue="TestNG.UI_Tests.renameCard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10890167-fa2a-4e4c-a166-1227f88857d2" name="Default Changelist" comment="" />
+      <created>1588862434746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588862434746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588862688197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588862688197" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1589542888616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589542888616" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1589543079802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589543079802" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1589543079802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589543079802" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1589543079802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589543079802" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1589543079802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589543079802" />
+    <state width="1877" height="291" key="GridCell.Tab.1.bottom" timestamp="1589540973349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589540973349" />
+    <state width="1877" height="291" key="GridCell.Tab.1.center" timestamp="1589540973349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="291" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589540973349" />
+    <state width="1877" height="291" key="GridCell.Tab.1.left" timestamp="1589540973349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="291" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589540973349" />
+    <state width="1877" height="291" key="GridCell.Tab.1.right" timestamp="1589540973349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589540973349" />
+    <state x="779" y="347" key="export.test.results" timestamp="1589540762720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="347" key="export.test.results/0.0.1920.1040@0.0.1920.1040" timestamp="1589540762720" />
+    <state x="342" y="215" key="new project wizard" timestamp="1589542910526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589542910526" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589027161578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589027161578" />
+  </component>
+</project>
