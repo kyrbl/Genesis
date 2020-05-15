@@ -17,7 +17,7 @@ public class LoginPage extends Page {
     public Field emailField = new Field(By.cssSelector("input[id='user']"), driver);
     public Field passwordField = new Field(By.cssSelector("input[id='password']"), driver);
     public Link submitLink = new Link(By.cssSelector("input[id='login']"), driver);
-
+    
     public void login(){
         this.emailField.sendKeys(email);
         this.passwordField.sendKeys(password);

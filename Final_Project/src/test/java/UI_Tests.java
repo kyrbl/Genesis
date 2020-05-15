@@ -29,8 +29,9 @@ public class UI_Tests extends TestManager{
     }
 
     @Test(groups = "UI_Tests", priority = 3)
-    public void deleteCardUI(){
+    public void deleteCardUI() throws InterruptedException {
         boolean check = boardPage.deleteCard();
+        Thread.sleep(3000);
         Assert.assertEquals(check, false);
     }
 }

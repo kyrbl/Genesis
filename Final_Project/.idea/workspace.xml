@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10890167-fa2a-4e4c-a166-1227f88857d2" name="Default Changelist" comment="" />
+    <list default="true" id="10890167-fa2a-4e4c-a166-1227f88857d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/For_UI_tests/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/For_UI_tests/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UI_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UI_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/For_API_tests/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/For_API_tests/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/For_UI_tests/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/For_UI_tests/pages/LoginPage.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +59,7 @@
       <recent name="C:\Users\Busk\Desktop\Genesis\Final_Project\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.UI_Tests">
+  <component name="RunManager" selected="TestNG.API_Tests">
     <configuration name="API_Tests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Final_Project" />
       <option name="PACKAGE_NAME" value="" />
@@ -114,9 +120,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.API_Tests" />
         <item itemvalue="TestNG.UI_Tests" />
         <item itemvalue="TestNG.UI_Tests.renameCard" />
-        <item itemvalue="TestNG.API_Tests" />
         <item itemvalue="TestNG.UI_Tests.renameBoardUI" />
         <item itemvalue="TestNG.UI_Tests.deleteCardUI" />
       </list>
@@ -174,38 +180,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589542888616" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1589565666731">
+    <state width="1877" height="291" key="GridCell.Tab.0.bottom" timestamp="1589572343875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589565666731" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1589565666731">
+    <state width="1877" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589572343875" />
+    <state width="1877" height="291" key="GridCell.Tab.0.center" timestamp="1589572343874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589565666731" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1589565666731">
+    <state width="1877" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589572343874" />
+    <state width="1877" height="291" key="GridCell.Tab.0.left" timestamp="1589572343874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589565666731" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1589565666731">
+    <state width="1877" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589572343874" />
+    <state width="1877" height="291" key="GridCell.Tab.0.right" timestamp="1589572343875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589565666731" />
-    <state width="1877" height="291" key="GridCell.Tab.1.bottom" timestamp="1589540973349">
+    <state width="1877" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589572343875" />
+    <state width="1877" height="291" key="GridCell.Tab.1.bottom" timestamp="1589572343875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589540973349" />
-    <state width="1877" height="291" key="GridCell.Tab.1.center" timestamp="1589540973349">
+    <state width="1877" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589572343875" />
+    <state width="1877" height="291" key="GridCell.Tab.1.center" timestamp="1589572343875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589540973349" />
-    <state width="1877" height="291" key="GridCell.Tab.1.left" timestamp="1589540973349">
+    <state width="1877" height="291" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589572343875" />
+    <state width="1877" height="291" key="GridCell.Tab.1.left" timestamp="1589572343875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589540973349" />
-    <state width="1877" height="291" key="GridCell.Tab.1.right" timestamp="1589540973349">
+    <state width="1877" height="291" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589572343875" />
+    <state width="1877" height="291" key="GridCell.Tab.1.right" timestamp="1589572343875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589540973349" />
+    <state width="1877" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589572343875" />
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589565554679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
