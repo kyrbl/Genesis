@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="10890167-fa2a-4e4c-a166-1227f88857d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/For_UI_tests/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/For_UI_tests/pages/LoginPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1baFjnEdYJsRp49nXzxIHlm0pBf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -53,7 +56,7 @@
       <recent name="C:\Users\Busk\Desktop\Genesis\Final_Project\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.API_Tests">
+  <component name="RunManager" selected="TestNG.UI_Tests">
     <configuration name="API_Tests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Final_Project" />
       <option name="PACKAGE_NAME" value="" />
@@ -114,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.API_Tests" />
         <item itemvalue="TestNG.UI_Tests" />
+        <item itemvalue="TestNG.UI_Tests.renameCard" />
+        <item itemvalue="TestNG.API_Tests" />
         <item itemvalue="TestNG.UI_Tests.renameBoardUI" />
         <item itemvalue="TestNG.UI_Tests.deleteCardUI" />
-        <item itemvalue="TestNG.UI_Tests.renameCard" />
       </list>
     </recent_temporary>
   </component>
@@ -167,22 +170,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589542888616" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1589543890721">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1589565458803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589543890721" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1589543890720">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589565458803" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1589565458802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589543890720" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1589543890720">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589565458802" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1589565458802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589543890720" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1589543890720">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589565458802" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1589565458803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589543890720" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589565458803" />
     <state width="1877" height="291" key="GridCell.Tab.1.bottom" timestamp="1589540973349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -203,6 +206,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589544082689" />
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589565258359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589565258359" />
     <state x="779" y="347" key="export.test.results" timestamp="1589540762720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

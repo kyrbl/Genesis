@@ -5,7 +5,10 @@ import For_UI_tests.elements.Link;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class LoginPage extends Page{
+public class LoginPage extends Page {
+
+    private String email = "***";
+    private String password = "***";
 
     public LoginPage(WebDriver driver){
         super(driver);
@@ -16,8 +19,8 @@ public class LoginPage extends Page{
     public Link submitLink = new Link(By.cssSelector("input[id='login']"), driver);
 
     public void login(){
-        this.emailField.sendKeys("blackjack13132001@gmail.com");
-        this.passwordField.sendKeys("112233wwcc");
+        this.emailField.sendKeys(email);
+        this.passwordField.sendKeys(password);
         this.submitLink.click();
     }
 }
