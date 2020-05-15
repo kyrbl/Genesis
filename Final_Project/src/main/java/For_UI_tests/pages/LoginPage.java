@@ -3,10 +3,7 @@ package For_UI_tests.pages;
 import For_UI_tests.elements.Field;
 import For_UI_tests.elements.Link;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class LoginPage extends Page{
 

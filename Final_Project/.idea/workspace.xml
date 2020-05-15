@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10890167-fa2a-4e4c-a166-1227f88857d2" name="Default Changelist" comment="" />
+    <list default="true" id="10890167-fa2a-4e4c-a166-1227f88857d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/For_UI_tests/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/For_UI_tests/pages/LoginPage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1baFjnEdYJsRp49nXzxIHlm0pBf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,7 +53,7 @@
       <recent name="C:\Users\Busk\Desktop\Genesis\Final_Project\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.UI_Tests">
+  <component name="RunManager" selected="TestNG.API_Tests">
     <configuration name="API_Tests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Final_Project" />
       <option name="PACKAGE_NAME" value="" />
@@ -111,10 +114,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.API_Tests" />
         <item itemvalue="TestNG.UI_Tests" />
         <item itemvalue="TestNG.UI_Tests.renameBoardUI" />
         <item itemvalue="TestNG.UI_Tests.deleteCardUI" />
-        <item itemvalue="TestNG.API_Tests" />
         <item itemvalue="TestNG.UI_Tests.renameCard" />
       </list>
     </recent_temporary>
@@ -130,7 +133,19 @@
       <option name="presentableId" value="Default" />
       <updated>1588862434746</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1589543425276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589543425276</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588862688197">
@@ -145,22 +160,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589542888616" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1589543079802">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1589543890721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589543079802" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1589543079802">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589543890721" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1589543890720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589543079802" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1589543079802">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589543890720" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1589543890720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589543079802" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1589543079802">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589543890720" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1589543890720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589543079802" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589543890720" />
     <state width="1877" height="291" key="GridCell.Tab.1.bottom" timestamp="1589540973349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -177,10 +192,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589540973349" />
-    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589543365084">
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589544001421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589543365084" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589544001421" />
     <state x="779" y="347" key="export.test.results" timestamp="1589540762720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
